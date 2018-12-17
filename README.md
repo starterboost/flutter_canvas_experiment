@@ -1,7 +1,8 @@
 # gesture_app
 
 See video for final result of the current version of the code
-https://youtu.be/Pu_P2lqOca8?t=903
+
+[Youtube demonstration of code](https://youtu.be/Pu_P2lqOca8?t=903)
 
 # Flutter Listener
 A custom gesture listener that builds a list of points. This is then rendered to screen.
